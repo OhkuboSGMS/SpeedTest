@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CharaArrayManipulator">
+    <output-path>$PROJECT_DIR$/out/artifacts/CharaArrayManipulator</output-path>
+    <root id="archive" name="CharaArrayManipulator.jar">
+      <element id="module-output" name="CharArrayManipulator" />
+    </root>
+  </artifact>
+</component>
